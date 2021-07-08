@@ -6,6 +6,9 @@
 *.lo
 *.o
 *.obj
+*.iobj
+*.pdb
+*.ipdb
 
 # Precompiled Headers
 *.gch
@@ -26,7 +29,13 @@
 *.a
 *.lib
 
+# Manifest files
+*.manifest
+
 # Executables
 *.exe
 *.out
 *.app
+
+# Result files
+*.lp
